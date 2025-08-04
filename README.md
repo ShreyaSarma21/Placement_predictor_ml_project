@@ -25,6 +25,3 @@ This ML project predicts whether a student is placed or not based on their CGPA 
 - Matplotlib
 - Mlxtend
 - Pickle
-
-## Output
-Model Accuracy on Test Data: _e.g. 85%_
